@@ -1,0 +1,10 @@
+*.hpp text
+*.cpp text
+*.txt text
+*.html text
+*.md text
+*.yml text
+*.xml text
+*.in text
+.gitattributes text
+.gitignore text
